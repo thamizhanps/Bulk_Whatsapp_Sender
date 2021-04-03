@@ -10,4 +10,6 @@ You Can Send bulk Contacts in single click(Developed By Python)
 
 3 :: Driver Automatically Close When Process Complete
 
-4 :: Update Coming Soon :)
+4 :: Session Run Until Logout Whatsapp Web
+
+5 :: Update Coming Soon :)
